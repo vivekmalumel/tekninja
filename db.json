@@ -2,24 +2,21 @@
   "data": [
         {
             "id": 4,
-            "email": "eve.holt@reqres.in",
-            "first_name": "Eve",
-            "last_name": "Holt",
-            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/marcoramires/128.jpg"
+            "title": "Lorem Ipsum is simply dummy text of the printing",
+            "content":"e 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release",
+            "author": "Vivek Vijayan"
+        },
+         {
+            "id": 5,
+            "title": "Why do we use it?",
+            "content":"e 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release",
+            "author": "Vineeth Vijayan"
         },
         {
             "id": 5,
-            "email": "charles.morris@reqres.in",
-            "first_name": "Charles",
-            "last_name": "Morris",
-            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/stephenmoon/128.jpg"
-        },
-        {
-            "id": 6,
-            "email": "tracey.ramos@reqres.in",
-            "first_name": "Tracey",
-            "last_name": "Ramos",
-            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/bigmancho/128.jpg"
+            "title": "Neque porro quisquam est qui dolorem ipsum quia dolor",
+            "content":"Praesent porta nulla a venenatis tincidunt. Mauris consectetur orci lorem, vitae tincidunt nisl bibendum vitae. Donec ac dolor vel magna pretium volutpat. Interdum et malesuada fames ac ante ipsum primis in faucibus.",
+            "author": "Vineeth Vijayan"
         }
     ]
 }
